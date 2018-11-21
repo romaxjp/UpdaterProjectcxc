@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/data/test.zip https://fr.wordpress.org/wordpress-4.9.8-fr_FR.zip
+<End of Version>
